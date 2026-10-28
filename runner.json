@@ -5,11 +5,11 @@
 "audiogroup_music.dat",
 "audiogroup_music_main.dat",
 "audiogroup_sfx.dat",
-"game.unx" ], "manifestFilesMD5" : [ "0507ad9273f32b5293273d66c38372f7",
+"game.unx" ], "manifestFilesMD5" : [ "5a55399abdf3f9ed39d798e60835ad93",
 "7eb285d8ddb936cebc7b03e69bf13d75",
 "6344cea96b6757c3753745b7ebf72d7d",
 "e8f1e8db8cf996f8715a6f2164c2e44e",
-"9502501495d274903fff4b29bc90feb6",
+"4948f74708f925b43899d8f92c77f727",
 "7e51e34c5a9b34a68ebec017dd2758c3",
-"2da7d62c075ae747ab2b8d27954b55e1",
-"9bfe63c45c937a48a13ffb0cd8b6ef67" ], "mainJS" : "runner.js", "unx": "game.unx", "index": "index.html", "runner": {"version": "2026.0.0.23", "yyc": false}}
+"7e9c593931f1762fb9f56f4874d48a1e",
+"947925729e55eb2687f5074f785b8577" ], "mainJS" : "runner.js", "unx": "game.unx", "index": "index.html", "runner": {"version": "2026.0.0.23", "yyc": false}}
